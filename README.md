@@ -3,7 +3,7 @@
 ## Task Description  
 
 Given a two link robot with link lengths [600, 400] and a box of dimensions [600, 400]; I had to find a suitable robot configuration, i.e. joint values, to pick up a box that has its long edge aligned with the x-axis and with center C at coordinates (-400, 200). The box needed to be picked at the top, i.e. position P in the drawing below.
->       --------P--------
+>        --------P--------
 >       |                 |
 >       |        C        |
 >       |                 |
